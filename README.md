@@ -5,4 +5,4 @@ views. This project allows you to perform CRUD operations in Enmployee Managemen
 
  📸 Screenshot
 
-![Project Screenshot] https://raw.githubusercontent.com/Abhi-Dadge/Employee-Management-System/main/HomePage.png
+![Project Screenshot](https://raw.githubusercontent.com/Abhi-Dadge/Employee-Management-System/main/HomePage.png)
