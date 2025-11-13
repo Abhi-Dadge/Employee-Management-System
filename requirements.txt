@@ -1,6 +1,5 @@
 Python 3.10.12
 Django==4.2.3
 
-📸 Screenshot:
-
-https://raw.githubusercontent.com/Abhi-Dadge/Employee-Management-System/main/Screenshot%202025-11-13%20114756.png
+ 
+ 
